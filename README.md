@@ -1,5 +1,5 @@
 # PyCity Schools Analysis and Observations 
-# pandas-challenge
+pandas-challenge
 
 - All data regarding this analysis can be found in the 'Resources' folder of this repository
 - The script used to aggregate the data can be found in the folder labeled 'PyCitySchools'
