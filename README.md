@@ -4,7 +4,7 @@
 - All data regarding this analysis can be found in the 'Resources' folder of this repository
 - The script used to aggregate the data can be found in the folder labeled 'PyCitySchools'
 
-#Background 
+# Background 
 As the new Chief Data Scientist of the PyCity School District, I was tasked with helping the school board and other city officals with making strategic decisions regarding future district budget and priorities. 
 
 My task was to analyze the district standardized test data and other school information to showcase obvious trends based on the performance of the individual school. 
